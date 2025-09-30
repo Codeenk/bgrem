@@ -1,0 +1,49 @@
+# Ultra-optimized robots.txt for maximum SEO visibility
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /_next/
+Disallow: /node_modules/
+
+# Priority crawlers - maximum access
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot  
+Allow: /
+Crawl-delay: 0
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 0
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 0
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# Sitemap locations
+Sitemap: https://instant-bg-remover.vercel.app/sitemap.xml
+Sitemap: https://instant-bg-remover.vercel.app/sitemap-pages.xml
+Sitemap: https://instant-bg-remover.vercel.app/sitemap-images.xml
+
+# Host directive for primary domain
+Host: https://instant-bg-remover.vercel.app

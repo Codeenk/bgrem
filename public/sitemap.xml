@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  
+  <!-- Main homepage - highest priority -->
+  <url>
+    <loc>https://instant-bg-remover.vercel.app/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Multiple images for rich results -->
+    <image:image>
+      <image:loc>https://instant-bg-remover.vercel.app/og-image.jpg</image:loc>
+      <image:title>🔥 #1 Free Background Remover Tool - AI Powered 2025</image:title>
+      <image:caption>Best background remover tool - Remove backgrounds from any image instantly with advanced AI. No watermark, no signup, unlimited use.</image:caption>
+      <image:geo_location>San Francisco, California, USA</image:geo_location>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://instant-bg-remover.vercel.app/demo-before-after.jpg</image:loc>
+      <image:title>Background Removal Before After Example</image:title>
+      <image:caption>See how our AI background remover works - perfect edge detection and instant results</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://instant-bg-remover.vercel.app/logo-bg-removal.jpg</image:loc>
+      <image:title>Logo Background Remover Example</image:title>
+      <image:caption>Remove backgrounds from logos and graphics with precision AI technology</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://instant-bg-remover.vercel.app/product-photo-editor.jpg</image:loc>
+      <image:title>Product Photo Background Remover</image:title>
+      <image:caption>Perfect for ecommerce - remove product photo backgrounds for white background listings</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Alternative URLs for keyword targeting -->
+  <url>
+    <loc>https://instant-bg-remover.vercel.app/background-remover</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://instant-bg-remover.vercel.app/bg-remover</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://instant-bg-remover.vercel.app/remove-background</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://instant-bg-remover.vercel.app/logo-background-remover</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://instant-bg-remover.vercel.app/photo-background-eraser</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+</urlset>
