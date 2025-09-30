@@ -85,7 +85,16 @@
       ]
     },
     {
-      "source": "/(.*\\.(wasm|js))",
+      "source": "/(.*).wasm",
+      "headers": [
+        {
+          "key": "Cross-Origin-Resource-Policy",
+          "value": "cross-origin"
+        }
+      ]
+    },
+    {
+      "source": "/(.*).js",
       "headers": [
         {
           "key": "Cross-Origin-Resource-Policy",
