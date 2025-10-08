@@ -155,7 +155,10 @@ const Index = () => {
 
               {/* Upload Section */}
               <div className="max-w-2xl mx-auto">
-                <ImageUploader onImagesSelected={handleImagesSelected} />
+                <ImageUploader 
+                  onImagesSelected={handleImagesSelected} 
+                  isProcessing={isProcessing}
+                />
               </div>
             </div>
           </div>
