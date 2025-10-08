@@ -1,7 +1,7 @@
 # IMPORTANT: Replace TODO_REPLACE_WITH_YOUR_PUBLISHER_ID with your actual AdSense publisher ID
 # Your publisher ID can be found in your AdSense account under "Account" > "Account Information"
 # Format: google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0
-google.com, pub-TODO_REPLACE_WITH_YOUR_PUBLISHER_ID, DIRECT, f08c47fec0942fa0
+google.com, pub-9284934562531491, DIRECT, f08c47fec0942fa0
 
 # Additional authorized sellers can be added below if needed
 # Example for multiple ad networks:
